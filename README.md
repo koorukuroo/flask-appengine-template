@@ -2,6 +2,7 @@ Flask on App Engine Project Template + Authomatic
 ====================================
 
 I merged "Flask on App Engine Project Template" by kamalgill and "Authomatic" by peterhudec.
+There is no commit information. You can't tract the modification process. Sorry about it. When I remove the security information, I mistake. So I must reset everything.
 
 https://github.com/kamalgill/flask-appengine-template
 https://github.com/peterhudec/authomatic/
